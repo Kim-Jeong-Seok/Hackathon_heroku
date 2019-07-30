@@ -1,0 +1,1 @@
+web: gunicorn onefour_project.wsgi --log-file -
